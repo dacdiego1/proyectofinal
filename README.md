@@ -1,2 +1,1 @@
-# proyectofinal
-final del semestre
+# proyecto_compras
